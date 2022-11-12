@@ -1,5 +1,6 @@
 .ipynb_checkpoints/
 images/
 postgres/
-postgres/postgres
+postgres/postgres/
+# postgres/postgres/pg_stat_tmp
 sqlite/
