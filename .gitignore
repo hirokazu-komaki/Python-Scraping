@@ -2,5 +2,7 @@
 images/
 postgres/
 postgres/postgres/
-# postgres/postgres/pg_stat_tmp
+postgres/postgres/pg_stat_tmp/
+postgres/global/pg_control/
+postgres/pg_wal/
 sqlite/
